@@ -1,7 +1,7 @@
 {
   "database": "NCBI ClinVar",
   "query": "CYP2C9[gene]",
-  "retrieved_at_utc": "2026-11-17T06:55:49Z",
+  "retrieved_at_utc": "2026-11-17T07:01:37Z",
   "search_count": 104,
   "uids_requested": 104,
   "records_retrieved": 104,
