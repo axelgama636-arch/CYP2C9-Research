@@ -1,0 +1,17 @@
+﻿star_allele,rsid,variant_allele,population_code,population_description,frequency_percent,note
+*2,rs1799853,T,AMR,1000G AMR aggregate,9.94236311239193,AMR is a superpopulation aggregate; MXL/CLM/PEL/PUR are distinct cohorts
+*2,rs1799853,T,CLM,Colombian in Medellin,12.2340425531915,AMR is a superpopulation aggregate; MXL/CLM/PEL/PUR are distinct cohorts
+*2,rs1799853,T,MXL,Mexican ancestry in Los Angeles,10.15625,AMR is a superpopulation aggregate; MXL/CLM/PEL/PUR are distinct cohorts
+*2,rs1799853,T,PEL,Peruvian in Lima,2.35294117647059,AMR is a superpopulation aggregate; MXL/CLM/PEL/PUR are distinct cohorts
+*2,rs1799853,T,PUR,Puerto Rican in Puerto Rico,13.9423076923077,AMR is a superpopulation aggregate; MXL/CLM/PEL/PUR are distinct cohorts
+*3,rs1057910,C,AMR,1000G AMR aggregate,3.7463976945245,AMR is a superpopulation aggregate; MXL/CLM/PEL/PUR are distinct cohorts
+*3,rs1057910,C,CLM,Colombian in Medellin,6.382978723404251,AMR is a superpopulation aggregate; MXL/CLM/PEL/PUR are distinct cohorts
+*3,rs1057910,C,MXL,Mexican ancestry in Los Angeles,2.34375,AMR is a superpopulation aggregate; MXL/CLM/PEL/PUR are distinct cohorts
+*3,rs1057910,C,PEL,Peruvian in Lima,1.17647058823529,AMR is a superpopulation aggregate; MXL/CLM/PEL/PUR are distinct cohorts
+*3,rs1057910,C,PUR,Puerto Rican in Puerto Rico,4.32692307692308,AMR is a superpopulation aggregate; MXL/CLM/PEL/PUR are distinct cohorts
+*5,rs28371686,G,AMR,1000G AMR aggregate,0.144092219020173,AMR is a superpopulation aggregate; MXL/CLM/PEL/PUR are distinct cohorts
+*5,rs28371686,G,PUR,Puerto Rican in Puerto Rico,0.48076923076923095,AMR is a superpopulation aggregate; MXL/CLM/PEL/PUR are distinct cohorts
+*8,rs7900194,A,AMR,1000G AMR aggregate,0.144092219020173,AMR is a superpopulation aggregate; MXL/CLM/PEL/PUR are distinct cohorts
+*8,rs7900194,A,PUR,Puerto Rican in Puerto Rico,0.48076923076923095,AMR is a superpopulation aggregate; MXL/CLM/PEL/PUR are distinct cohorts
+*11,rs28371685,T,AMR,1000G AMR aggregate,0.144092219020173,AMR is a superpopulation aggregate; MXL/CLM/PEL/PUR are distinct cohorts
+*11,rs28371685,T,PUR,Puerto Rican in Puerto Rico,0.48076923076923095,AMR is a superpopulation aggregate; MXL/CLM/PEL/PUR are distinct cohorts

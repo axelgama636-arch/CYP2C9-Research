@@ -1,0 +1,7 @@
+﻿star_allele,rsid,defining_allele,variant_type,n_1000G_individual_populations,min_frequency_percent,max_frequency_percent,unweighted_mean_across_populations_percent,median_across_populations_percent,interpretation
+*2,rs1799853,T,SNV,18,0.44247787610619504,15.4205607476636,6.942698146182244,5.03135113268608,Descriptive only; populations are not sample-size weighted
+*3,rs1057910,C,SNV,21,0.5208333333333329,13.106796116504901,5.904637009811814,5.55555555555556,Descriptive only; populations are not sample-size weighted
+*5,rs28371686,G,SNV,8,0.48076923076923095,2.77777777777778,1.5360759979591507,1.286300505050505,Descriptive only; populations are not sample-size weighted
+*6,rs9332131,A,deletion; Ensembl representation A vs AA,4,0.5208333333333329,2.02020202020202,1.319460739399898,1.3684038020321196,Descriptive only; populations are not sample-size weighted
+*8,rs7900194,A,SNV,11,0.467289719626168,8.33333333333333,3.511304104990057,3.27868852459016,Descriptive only; populations are not sample-size weighted
+*11,rs28371685,T,SNV,10,0.48076923076923095,5.09259259259259,1.7873847753614425,1.262626262626265,Descriptive only; populations are not sample-size weighted
