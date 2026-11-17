@@ -1,0 +1,659 @@
+{
+  "most_severe_consequence": "frameshift_variant",
+  "evidence": [
+    "Frequency",
+    "1000Genomes",
+    "Cited",
+    "ESP",
+    "Phenotype_or_Disease",
+    "ExAC",
+    "TOPMed",
+    "gnomAD"
+  ],
+  "var_class": "indel",
+  "MAF": null,
+  "source": "Variants (including SNPs and indels) imported from dbSNP",
+  "synonyms": [
+    "rs386621785",
+    "PA166154102",
+    "RCV000363569",
+    "RCV000787932",
+    "RCV000788096",
+    "VCV000285601",
+    "RCV000788102"
+  ],
+  "name": "rs9332131",
+  "mappings": [
+    {
+      "assembly_name": "GRCh38",
+      "strand": 1,
+      "ancestral_allele": "AA",
+      "allele_string": "AA/A/AAA",
+      "location": "10:94949282-94949283",
+      "seq_region_name": "10",
+      "start": 94949282,
+      "coord_system": "chromosome",
+      "end": 94949283
+    }
+  ],
+  "minor_allele": null,
+  "populations": [
+    {
+      "allele_count": 22,
+      "frequency": 0.0004956,
+      "allele": "A",
+      "population": "gnomADe:amr"
+    },
+    {
+      "allele_count": 44370,
+      "frequency": 0.9995,
+      "allele": "AA",
+      "population": "gnomADe:amr"
+    },
+    {
+      "allele_count": 5394,
+      "frequency": 0.9996,
+      "allele": "AA",
+      "population": "gnomADe:mid"
+    },
+    {
+      "allele_count": 2,
+      "frequency": 0.0003706,
+      "population": "gnomADe:mid",
+      "allele": "A"
+    },
+    {
+      "allele": "A",
+      "population": "gnomADe:nfe",
+      "frequency": 7.935e-05,
+      "allele_count": 88
+    },
+    {
+      "frequency": 0.9999,
+      "allele": "AA",
+      "population": "gnomADe:nfe",
+      "allele_count": 1108988
+    },
+    {
+      "allele_count": 571,
+      "frequency": 0.000392,
+      "allele": "A",
+      "population": "gnomADe:ALL"
+    },
+    {
+      "allele_count": 1456041,
+      "frequency": 0.9996,
+      "allele": "AA",
+      "population": "gnomADe:ALL"
+    },
+    {
+      "allele_count": 1,
+      "allele": "A",
+      "population": "gnomADe:sas",
+      "frequency": 1.168e-05
+    },
+    {
+      "allele_count": 85625,
+      "frequency": 1,
+      "allele": "AA",
+      "population": "gnomADe:sas"
+    },
+    {
+      "frequency": 0.01262,
+      "population": "gnomADe:afr",
+      "allele": "A",
+      "allele_count": 420
+    },
+    {
+      "frequency": 0.9874,
+      "allele": "AA",
+      "population": "gnomADe:afr",
+      "allele_count": 32860
+    },
+    {
+      "frequency": 1,
+      "population": "gnomADe:fin",
+      "allele": "AA",
+      "allele_count": 53314
+    },
+    {
+      "allele_count": 26006,
+      "allele": "AA",
+      "population": "gnomADe:asj",
+      "frequency": 1
+    },
+    {
+      "frequency": 1,
+      "allele": "AA",
+      "population": "gnomADe:eas",
+      "allele_count": 39382
+    },
+    {
+      "allele_count": 38,
+      "frequency": 0.0006319,
+      "allele": "A",
+      "population": "gnomADe:remaining"
+    },
+    {
+      "population": "gnomADe:remaining",
+      "allele": "AA",
+      "frequency": 0.9994,
+      "allele_count": 60102
+    },
+    {
+      "allele_count": 472,
+      "frequency": 0.003101,
+      "allele": "A",
+      "population": "gnomADg:ALL"
+    },
+    {
+      "allele": "AA",
+      "population": "gnomADg:ALL",
+      "frequency": 0.9969,
+      "allele_count": 151758
+    },
+    {
+      "allele_count": 5174,
+      "allele": "AA",
+      "population": "gnomADg:eas",
+      "frequency": 1
+    },
+    {
+      "allele_count": 912,
+      "population": "gnomADg:ami",
+      "allele": "AA",
+      "frequency": 1
+    },
+    {
+      "allele_count": 1,
+      "population": "gnomADg:remaining",
+      "allele": "A",
+      "frequency": 0.000473
+    },
+    {
+      "frequency": 0.9995,
+      "population": "gnomADg:remaining",
+      "allele": "AA",
+      "allele_count": 2113
+    },
+    {
+      "allele": "AA",
+      "population": "gnomADg:amr",
+      "frequency": 0.999,
+      "allele_count": 15248
+    },
+    {
+      "frequency": 0.001048,
+      "allele": "A",
+      "population": "gnomADg:amr",
+      "allele_count": 16
+    },
+    {
+      "allele_count": 4818,
+      "frequency": 1,
+      "allele": "AA",
+      "population": "gnomADg:sas"
+    },
+    {
+      "allele_count": 10602,
+      "frequency": 1,
+      "allele": "AA",
+      "population": "gnomADg:fin"
+    },
+    {
+      "allele": "AA",
+      "population": "gnomADg:afr",
+      "frequency": 0.9892,
+      "allele_count": 41115
+    },
+    {
+      "allele_count": 449,
+      "frequency": 0.0108,
+      "population": "gnomADg:afr",
+      "allele": "A"
+    },
+    {
+      "allele_count": 3472,
+      "frequency": 1,
+      "population": "gnomADg:asj",
+      "allele": "AA"
+    },
+    {
+      "population": "gnomADg:mid",
+      "allele": "AA",
+      "frequency": 1,
+      "allele_count": 294
+    },
+    {
+      "frequency": 8.821e-05,
+      "allele": "A",
+      "population": "gnomADg:nfe",
+      "allele_count": 6
+    },
+    {
+      "allele": "AA",
+      "population": "gnomADg:nfe",
+      "frequency": 0.9999,
+      "allele_count": 68010
+    },
+    {
+      "frequency": 1,
+      "population": "ALFA:SAMN10492700",
+      "allele": "AA",
+      "allele_count": 928
+    },
+    {
+      "frequency": 1,
+      "allele": "AA",
+      "population": "ALFA:SAMN10492704",
+      "allele_count": 3330
+    },
+    {
+      "allele": "AA",
+      "population": "ALFA:SAMN10492697",
+      "frequency": 1,
+      "allele_count": 2674
+    },
+    {
+      "allele_count": 34,
+      "frequency": 0.0003843,
+      "population": "ALFA:SAMN10492705",
+      "allele": "A"
+    },
+    {
+      "allele": "AA",
+      "population": "ALFA:SAMN10492705",
+      "frequency": 0.9996,
+      "allele_count": 88438
+    },
+    {
+      "frequency": 1,
+      "allele": "AA",
+      "population": "ALFA:SAMN10492695",
+      "allele_count": 75456
+    },
+    {
+      "allele_count": 274,
+      "population": "ALFA:SAMN10492702",
+      "allele": "AA",
+      "frequency": 1
+    },
+    {
+      "allele_count": 656,
+      "frequency": 1,
+      "population": "ALFA:SAMN10492701",
+      "allele": "AA"
+    },
+    {
+      "population": "ALFA:SAMN10492696",
+      "allele": "AA",
+      "frequency": 0.9943,
+      "allele_count": 173
+    },
+    {
+      "frequency": 0.005747,
+      "allele": "A",
+      "population": "ALFA:SAMN10492696",
+      "allele_count": 1
+    },
+    {
+      "allele_count": 4088,
+      "allele": "AA",
+      "population": "ALFA:SAMN10492698",
+      "frequency": 0.9927
+    },
+    {
+      "allele_count": 30,
+      "frequency": 0.007285,
+      "allele": "A",
+      "population": "ALFA:SAMN10492698"
+    },
+    {
+      "frequency": 0.0007987,
+      "population": "ALFA:SAMN11605645",
+      "allele": "A",
+      "allele_count": 3
+    },
+    {
+      "allele": "AA",
+      "population": "ALFA:SAMN11605645",
+      "frequency": 0.9992,
+      "allele_count": 3753
+    },
+    {
+      "allele_count": 436,
+      "frequency": 1,
+      "allele": "AA",
+      "population": "ALFA:SAMN10492699"
+    },
+    {
+      "population": "ALFA:SAMN10492703",
+      "allele": "A",
+      "frequency": 0.007223,
+      "allele_count": 31
+    },
+    {
+      "frequency": 0.9928,
+      "population": "ALFA:SAMN10492703",
+      "allele": "AA",
+      "allele_count": 4261
+    },
+    {
+      "frequency": 0.9892,
+      "allele": "AA",
+      "population": "ESP6500:AA",
+      "allele_count": 4218
+    },
+    {
+      "frequency": 0.01079,
+      "population": "ESP6500:AA",
+      "allele": "A",
+      "allele_count": 46
+    },
+    {
+      "allele_count": 8251,
+      "allele": "AA",
+      "population": "ESP6500:EA",
+      "frequency": 0.9999
+    },
+    {
+      "allele": "A",
+      "population": "ESP6500:EA",
+      "frequency": 0.0001212,
+      "allele_count": 1
+    },
+    {
+      "allele": "A",
+      "population": "TOPMed",
+      "frequency": 0.003257199
+    },
+    {
+      "allele": "AA",
+      "population": "TOPMed",
+      "frequency": 0.996742801
+    },
+    {
+      "allele_count": 191,
+      "allele": "AA",
+      "population": "1000GENOMES:phase_3:ACB",
+      "frequency": 0.994791666666667
+    },
+    {
+      "frequency": 0.00520833333333333,
+      "allele": "A",
+      "population": "1000GENOMES:phase_3:ACB",
+      "allele_count": 1
+    },
+    {
+      "population": "1000GENOMES:phase_3:AFR",
+      "allele": "AA",
+      "frequency": 0.991679273827534,
+      "allele_count": 1311
+    },
+    {
+      "frequency": 0.00832072617246596,
+      "allele": "A",
+      "population": "1000GENOMES:phase_3:AFR",
+      "allele_count": 11
+    },
+    {
+      "allele_count": 4997,
+      "frequency": 0.997803514376997,
+      "allele": "AA",
+      "population": "1000GENOMES:phase_3:ALL"
+    },
+    {
+      "frequency": 0.00219648562300319,
+      "allele": "A",
+      "population": "1000GENOMES:phase_3:ALL",
+      "allele_count": 11
+    },
+    {
+      "population": "1000GENOMES:phase_3:AMR",
+      "allele": "AA",
+      "frequency": 1,
+      "allele_count": 694
+    },
+    {
+      "allele_count": 122,
+      "allele": "AA",
+      "population": "1000GENOMES:phase_3:ASW",
+      "frequency": 1
+    },
+    {
+      "allele_count": 172,
+      "allele": "AA",
+      "population": "1000GENOMES:phase_3:BEB",
+      "frequency": 1
+    },
+    {
+      "frequency": 1,
+      "allele": "AA",
+      "population": "1000GENOMES:phase_3:CDX",
+      "allele_count": 186
+    },
+    {
+      "allele_count": 198,
+      "allele": "AA",
+      "population": "1000GENOMES:phase_3:CEU",
+      "frequency": 1
+    },
+    {
+      "frequency": 1,
+      "population": "1000GENOMES:phase_3:CHB",
+      "allele": "AA",
+      "allele_count": 206
+    },
+    {
+      "frequency": 1,
+      "allele": "AA",
+      "population": "1000GENOMES:phase_3:CHS",
+      "allele_count": 210
+    },
+    {
+      "allele_count": 188,
+      "frequency": 1,
+      "allele": "AA",
+      "population": "1000GENOMES:phase_3:CLM"
+    },
+    {
+      "frequency": 1,
+      "allele": "AA",
+      "population": "1000GENOMES:phase_3:EAS",
+      "allele_count": 1008
+    },
+    {
+      "frequency": 0.0202020202020202,
+      "allele": "A",
+      "population": "1000GENOMES:phase_3:ESN",
+      "allele_count": 4
+    },
+    {
+      "allele_count": 194,
+      "frequency": 0.97979797979798,
+      "allele": "AA",
+      "population": "1000GENOMES:phase_3:ESN"
+    },
+    {
+      "allele": "AA",
+      "population": "1000GENOMES:phase_3:EUR",
+      "frequency": 1,
+      "allele_count": 1006
+    },
+    {
+      "allele_count": 198,
+      "population": "1000GENOMES:phase_3:FIN",
+      "allele": "AA",
+      "frequency": 1
+    },
+    {
+      "allele_count": 182,
+      "frequency": 1,
+      "allele": "AA",
+      "population": "1000GENOMES:phase_3:GBR"
+    },
+    {
+      "population": "1000GENOMES:phase_3:GIH",
+      "allele": "AA",
+      "frequency": 1,
+      "allele_count": 206
+    },
+    {
+      "allele": "AA",
+      "population": "1000GENOMES:phase_3:GWD",
+      "frequency": 0.991150442477876,
+      "allele_count": 224
+    },
+    {
+      "allele_count": 2,
+      "allele": "A",
+      "population": "1000GENOMES:phase_3:GWD",
+      "frequency": 0.00884955752212389
+    },
+    {
+      "allele_count": 214,
+      "frequency": 1,
+      "allele": "AA",
+      "population": "1000GENOMES:phase_3:IBS"
+    },
+    {
+      "allele_count": 204,
+      "population": "1000GENOMES:phase_3:ITU",
+      "allele": "AA",
+      "frequency": 1
+    },
+    {
+      "allele_count": 208,
+      "allele": "AA",
+      "population": "1000GENOMES:phase_3:JPT",
+      "frequency": 1
+    },
+    {
+      "allele": "AA",
+      "population": "1000GENOMES:phase_3:KHV",
+      "frequency": 1,
+      "allele_count": 198
+    },
+    {
+      "frequency": 1,
+      "allele": "AA",
+      "population": "1000GENOMES:phase_3:LWK",
+      "allele_count": 198
+    },
+    {
+      "frequency": 1,
+      "population": "1000GENOMES:phase_3:MSL",
+      "allele": "AA",
+      "allele_count": 170
+    },
+    {
+      "allele_count": 128,
+      "population": "1000GENOMES:phase_3:MXL",
+      "allele": "AA",
+      "frequency": 1
+    },
+    {
+      "allele_count": 170,
+      "frequency": 1,
+      "population": "1000GENOMES:phase_3:PEL",
+      "allele": "AA"
+    },
+    {
+      "allele": "AA",
+      "population": "1000GENOMES:phase_3:PJL",
+      "frequency": 1,
+      "allele_count": 192
+    },
+    {
+      "allele_count": 208,
+      "frequency": 1,
+      "allele": "AA",
+      "population": "1000GENOMES:phase_3:PUR"
+    },
+    {
+      "allele_count": 978,
+      "frequency": 1,
+      "allele": "AA",
+      "population": "1000GENOMES:phase_3:SAS"
+    },
+    {
+      "allele_count": 204,
+      "allele": "AA",
+      "population": "1000GENOMES:phase_3:STU",
+      "frequency": 1
+    },
+    {
+      "frequency": 1,
+      "allele": "AA",
+      "population": "1000GENOMES:phase_3:TSI",
+      "allele_count": 214
+    },
+    {
+      "allele_count": 4,
+      "population": "1000GENOMES:phase_3:YRI",
+      "allele": "A",
+      "frequency": 0.0185185185185185
+    },
+    {
+      "frequency": 0.981481481481482,
+      "population": "1000GENOMES:phase_3:YRI",
+      "allele": "AA",
+      "allele_count": 212
+    },
+    {
+      "allele_count": 184,
+      "population": "GGVP:GWF",
+      "allele": "AA",
+      "frequency": 1
+    },
+    {
+      "allele_count": 432,
+      "allele": "AA",
+      "population": "GGVP:GWD",
+      "frequency": 0.995391705069124
+    },
+    {
+      "allele": "A",
+      "population": "GGVP:GWD",
+      "frequency": 0.00460829493087558,
+      "allele_count": 2
+    },
+    {
+      "population": "GGVP:GWW",
+      "allele": "AA",
+      "frequency": 1,
+      "allele_count": 196
+    },
+    {
+      "allele_count": 194,
+      "allele": "AA",
+      "population": "GGVP:GWJ",
+      "frequency": 0.989795918367347
+    },
+    {
+      "allele": "A",
+      "population": "GGVP:GWJ",
+      "frequency": 0.0102040816326531,
+      "allele_count": 2
+    },
+    {
+      "frequency": 0.996039603960396,
+      "population": "GGVP:ALL",
+      "allele": "AA",
+      "allele_count": 1006
+    },
+    {
+      "frequency": 0.00396039603960396,
+      "allele": "A",
+      "population": "GGVP:ALL",
+      "allele_count": 4
+    }
+  ],
+  "clinical_significance": [
+    "benign",
+    "likely benign",
+    "drug response",
+    "other"
+  ],
+  "ambiguity": null
+}

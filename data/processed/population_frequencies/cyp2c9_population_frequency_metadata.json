@@ -1,0 +1,200 @@
+{
+  "source": "Ensembl REST API",
+  "endpoint": "/variation/human/{rsID}?pops=1",
+  "retrieved_at_utc": "2026-11-17T17:41:08Z",
+  "variants_requested": 6,
+  "variants_retrieved": 6,
+  "frequency_unit": "proportion (0-1)",
+  "interpretation": "Each row is one allele-frequency observation for one variant in one named population/source. Do not pool or average across populations or datasets. Population labels and sample denominators are retained as returned by Ensembl when available.",
+  "limitations": [
+    "Ensembl aggregates frequency observations from multiple source datasets.",
+    "Not every variant has observations for every population.",
+    "A missing row means no observation was returned, not a frequency of zero.",
+    "The rsID-to-star-allele mapping is a project annotation and should be checked against current PharmVar/ClinVar records before publication.",
+    "These data are not a representative estimate for Mexico or any local population."
+  ],
+  "variants": {
+    "rs1799853": {
+      "star_allele": "*2",
+      "known_variant_allele": "T",
+      "minor_allele": null,
+      "MAF": null,
+      "evidence": [
+        "Frequency",
+        "1000Genomes",
+        "Cited",
+        "ESP",
+        "Phenotype_or_Disease",
+        "ExAC",
+        "TOPMed",
+        "gnomAD"
+      ],
+      "most_severe_consequence": "missense_variant",
+      "mappings": [
+        {
+          "allele_string": "C/A/T",
+          "coord_system": "chromosome",
+          "start": 94942290,
+          "location": "10:94942290-94942290",
+          "strand": 1,
+          "assembly_name": "GRCh38",
+          "ancestral_allele": "C",
+          "end": 94942290,
+          "seq_region_name": "10"
+        }
+      ]
+    },
+    "rs1057910": {
+      "star_allele": "*3",
+      "known_variant_allele": "C",
+      "minor_allele": null,
+      "MAF": null,
+      "evidence": [
+        "Frequency",
+        "1000Genomes",
+        "Cited",
+        "ESP",
+        "Phenotype_or_Disease",
+        "ExAC",
+        "TOPMed",
+        "gnomAD"
+      ],
+      "most_severe_consequence": "missense_variant",
+      "mappings": [
+        {
+          "strand": 1,
+          "location": "10:94981296-94981296",
+          "assembly_name": "GRCh38",
+          "ancestral_allele": "A",
+          "coord_system": "chromosome",
+          "end": 94981296,
+          "allele_string": "A/C/G",
+          "seq_region_name": "10",
+          "start": 94981296
+        }
+      ]
+    },
+    "rs28371686": {
+      "star_allele": "*5",
+      "known_variant_allele": "",
+      "minor_allele": null,
+      "MAF": null,
+      "evidence": [
+        "Frequency",
+        "1000Genomes",
+        "Cited",
+        "ESP",
+        "Phenotype_or_Disease",
+        "ExAC",
+        "TOPMed",
+        "gnomAD"
+      ],
+      "most_severe_consequence": "missense_variant",
+      "mappings": [
+        {
+          "assembly_name": "GRCh38",
+          "ancestral_allele": "C",
+          "allele_string": "C/A/G/T",
+          "strand": 1,
+          "seq_region_name": "10",
+          "location": "10:94981301-94981301",
+          "coord_system": "chromosome",
+          "end": 94981301,
+          "start": 94981301
+        }
+      ]
+    },
+    "rs9332131": {
+      "star_allele": "*6",
+      "known_variant_allele": "",
+      "minor_allele": null,
+      "MAF": null,
+      "evidence": [
+        "Frequency",
+        "1000Genomes",
+        "Cited",
+        "ESP",
+        "Phenotype_or_Disease",
+        "ExAC",
+        "TOPMed",
+        "gnomAD"
+      ],
+      "most_severe_consequence": "frameshift_variant",
+      "mappings": [
+        {
+          "assembly_name": "GRCh38",
+          "strand": 1,
+          "ancestral_allele": "AA",
+          "allele_string": "AA/A/AAA",
+          "location": "10:94949282-94949283",
+          "seq_region_name": "10",
+          "start": 94949282,
+          "coord_system": "chromosome",
+          "end": 94949283
+        }
+      ]
+    },
+    "rs7900194": {
+      "star_allele": "*8",
+      "known_variant_allele": "",
+      "minor_allele": null,
+      "MAF": null,
+      "evidence": [
+        "Frequency",
+        "1000Genomes",
+        "Cited",
+        "ESP",
+        "Phenotype_or_Disease",
+        "ExAC",
+        "TOPMed",
+        "gnomAD"
+      ],
+      "most_severe_consequence": "missense_variant",
+      "mappings": [
+        {
+          "strand": 1,
+          "assembly_name": "GRCh38",
+          "ancestral_allele": "G",
+          "end": 94942309,
+          "seq_region_name": "10",
+          "coord_system": "chromosome",
+          "allele_string": "G/A/C/T",
+          "location": "10:94942309-94942309",
+          "start": 94942309
+        }
+      ]
+    },
+    "rs28371685": {
+      "star_allele": "*11",
+      "known_variant_allele": "",
+      "minor_allele": null,
+      "MAF": null,
+      "evidence": [
+        "Frequency",
+        "1000Genomes",
+        "Cited",
+        "ESP",
+        "Phenotype_or_Disease",
+        "ExAC",
+        "TOPMed",
+        "gnomAD"
+      ],
+      "most_severe_consequence": "missense_variant",
+      "mappings": [
+        {
+          "ancestral_allele": "C",
+          "location": "10:94981224-94981224",
+          "assembly_name": "GRCh38",
+          "strand": 1,
+          "start": 94981224,
+          "end": 94981224,
+          "seq_region_name": "10",
+          "allele_string": "C/T",
+          "coord_system": "chromosome"
+        }
+      ]
+    }
+  },
+  "population_observations": 753,
+  "variants_with_frequency_observations": 6
+}
