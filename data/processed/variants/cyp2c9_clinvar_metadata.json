@@ -1,0 +1,31 @@
+{
+  "database": "NCBI ClinVar",
+  "query": "CYP2C9[gene]",
+  "retrieved_at_utc": "2026-11-17T06:55:49Z",
+  "search_count": 104,
+  "records_retrieved": 104,
+  "csv_records": 104,
+  "known_variant_reference_points": {
+    "CYP2C9*2": {
+      "rsid": "rs1799853",
+      "HGVS_coding": "NM_000771.4:c.430C>T"
+    },
+    "CYP2C9*3": {
+      "rsid": "rs1057910",
+      "HGVS_coding": "NM_000771.4:c.1075A>C"
+    }
+  },
+  "interpretation_rules": [
+    "ClinVar clinical significance is preserved as reported; it is not reclassified by this script.",
+    "Review status and last evaluated date must be considered when interpreting each assertion.",
+    "Star-allele labels are assigned only for the two explicitly curated rsID mappings above.",
+    "A ClinVar record is not necessarily an independent study or a population-frequency observation.",
+    "No allele frequency is calculated because this pipeline does not retrieve population genotype denominators."
+  ],
+  "limitations": [
+    "The search is gene-index based and may include records with differing molecular scopes.",
+    "rsIDs are detected from the serialized ClinVar summary; inspect the raw JSON for complex records.",
+    "Full HGVS normalization and PharmVar haplotype assignment require additional transcript and haplotype review.",
+    "This catalogue is descriptive and is not a clinical interpretation."
+  ]
+}
