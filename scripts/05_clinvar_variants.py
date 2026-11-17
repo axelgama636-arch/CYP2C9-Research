@@ -112,8 +112,14 @@ def main():
     rows = []
     for item in summaries:
         rsids = extract_rsids(item)
-        star = "; ".join(STAR_ALLELES[x] for x in rsids if x in STAR_ALLELES)
+        title = clean(item.get("title"))
+        star_matches = [STAR_ALLELES[x] for x in rsids if x in STAR_ALLELES]
+        for allele in STAR_ALLELES.values():
+            if allele in title and allele not in star_matches:
+                star_matches.append(allele)
+        star = "; ".join(sorted(set(star_matches)))
         genes = item.get("genes", [])
+        variations, variation_names, frequencies = extract_variations(item)
         gene_names = sorted({
             g.get("symbol", "") for g in genes
             if isinstance(g, dict) and g.get("symbol")
@@ -122,7 +128,7 @@ def main():
         rows.append({
             "uid": clean(item.get("uid")),
             "accession": clean(item.get("accession")),
-            "title": clean(item.get("title")),
+            "title": title,
             "object_type": clean(item.get("obj_type")),
             "gene_symbols": "; ".join(gene_names),
             "rsids_detected_in_record": "; ".join(rsids),
@@ -136,7 +142,13 @@ def main():
             "last_evaluated": clean(
                 clinical.get("last_evaluated") if isinstance(clinical, dict) else ""
             ),
-            "variation_set_json": clean(item.get("variation_set", [])),
+            "variation_names": "; ".join(sorted(set(variation_names))),
+            "allele_frequency_observations_json": clean(frequencies),
+            "variation_set_json": clean(variations),
+            "record_scope_note": (
+                "Multigene/structural record includes CYP2C9 among affected genes"
+                if len(gene_names) > 1 else "CYP2C9 single-gene record"
+            ),
             "record_url": (
                 "https://www.ncbi.nlm.nih.gov/clinvar/" +
                 clean(item.get("accession")) if item.get("accession") else
@@ -149,7 +161,8 @@ def main():
         "uid", "accession", "title", "object_type", "gene_symbols",
         "rsids_detected_in_record", "known_star_allele_mapping",
         "clinical_significance_description", "review_status", "last_evaluated",
-        "variation_set_json", "record_url"
+        "variation_names", "allele_frequency_observations_json",
+        "variation_set_json", "record_scope_note", "record_url"
     ]
     csv_path = out_dir / "cyp2c9_clinvar_variants.csv"
     with csv_path.open("w", newline="", encoding="utf-8-sig") as handle:
