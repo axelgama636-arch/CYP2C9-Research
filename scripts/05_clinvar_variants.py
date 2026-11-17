@@ -82,11 +82,11 @@ def clean(value):
         return ""
     if isinstance(value, (dict, list)):
         return json.dumps(value, ensure_ascii=False, sort_keys=True)
-    return re.sub(r"\\s+", " ", str(value)).strip()
+    return re.sub(r"\s+", " ", str(value)).strip()
 
 def extract_rsids(item):
     serialized = json.dumps(item, ensure_ascii=False)
-    return sorted(set(re.findall(r"\\brs[0-9]+\\b", serialized)))
+    return sorted(set(re.findall(r"\brs[0-9]+\b", serialized)))
 
 def main():
     raw_dir = Path("data/raw/clinvar")
