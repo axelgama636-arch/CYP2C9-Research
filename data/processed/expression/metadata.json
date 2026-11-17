@@ -1,0 +1,40 @@
+{
+  "analysis": "CYP2C9-centered tissue expression heatmap",
+  "source": "Human Protein Atlas",
+  "hpa_version": "26.0",
+  "hpa_release_url": "https://www.proteinatlas.org/download/tsv/rna_tissue_hpa.tsv.zip",
+  "organism": "Homo sapiens",
+  "gene_set_source": "STRING network nodes CSV",
+  "requested_gene_count": 50,
+  "tissues": [
+    "liver",
+    "kidney",
+    "small intestine",
+    "lung",
+    "cerebral cortex",
+    "heart muscle"
+  ],
+  "source_measure": "nTPM",
+  "transform": "log2(nTPM + 1)",
+  "scaling": "row-wise Z-score across selected tissues; ddof=0",
+  "duplicate_aggregation": "mean by gene and tissue",
+  "missing_data": "retained as NA; no imputation",
+  "retrieved_at_utc": "2026-11-17T06:37:35Z",
+  "coverage": {
+    "requested_gene_count": 50,
+    "genes_with_any_tissue_value": 49,
+    "genes_without_values": [
+      "ENSP00000480571"
+    ],
+    "missing_cells": 6,
+    "total_cells": 300,
+    "tissues": [
+      "liver",
+      "kidney",
+      "small intestine",
+      "lung",
+      "cerebral cortex",
+      "heart muscle"
+    ]
+  }
+}

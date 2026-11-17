@@ -1,0 +1,202 @@
+[
+  {
+    "gene": "ALDH1A1",
+    "string_id": "9606.ENSP00000297785"
+  },
+  {
+    "gene": "ALOX5",
+    "string_id": "9606.ENSP00000363512"
+  },
+  {
+    "gene": "AOX1",
+    "string_id": "9606.ENSP00000363832"
+  },
+  {
+    "gene": "CYP1A1",
+    "string_id": "9606.ENSP00000378488"
+  },
+  {
+    "gene": "CYP1A2",
+    "string_id": "9606.ENSP00000342007"
+  },
+  {
+    "gene": "CYP26A1",
+    "string_id": "9606.ENSP00000224356"
+  },
+  {
+    "gene": "CYP26B1",
+    "string_id": "9606.ENSP00000001146"
+  },
+  {
+    "gene": "CYP26C1",
+    "string_id": "9606.ENSP00000498424"
+  },
+  {
+    "gene": "CYP2A6",
+    "string_id": "9606.ENSP00000301141"
+  },
+  {
+    "gene": "CYP2A7",
+    "string_id": "9606.ENSP00000301146"
+  },
+  {
+    "gene": "CYP2B6",
+    "string_id": "9606.ENSP00000324648"
+  },
+  {
+    "gene": "CYP2C18",
+    "string_id": "9606.ENSP00000285979"
+  },
+  {
+    "gene": "CYP2C19",
+    "string_id": "9606.ENSP00000360372"
+  },
+  {
+    "gene": "CYP2C8",
+    "string_id": "9606.ENSP00000360317"
+  },
+  {
+    "gene": "CYP2C9",
+    "string_id": "9606.ENSP00000260682"
+  },
+  {
+    "gene": "CYP2E1",
+    "string_id": "9606.ENSP00000440689"
+  },
+  {
+    "gene": "CYP2J2",
+    "string_id": "9606.ENSP00000360247"
+  },
+  {
+    "gene": "CYP2U1",
+    "string_id": "9606.ENSP00000333212"
+  },
+  {
+    "gene": "CYP3A4",
+    "string_id": "9606.ENSP00000498939"
+  },
+  {
+    "gene": "CYP3A5",
+    "string_id": "9606.ENSP00000222982"
+  },
+  {
+    "gene": "CYP3A7",
+    "string_id": "9606.ENSP00000337450"
+  },
+  {
+    "gene": "CYP4F2",
+    "string_id": "9606.ENSP00000221700"
+  },
+  {
+    "gene": "CYP4F3",
+    "string_id": "9606.ENSP00000221307"
+  },
+  {
+    "gene": "CYP4F8",
+    "string_id": "9606.ENSP00000477567"
+  },
+  {
+    "gene": "ENSP00000480571",
+    "string_id": "9606.ENSP00000480571"
+  },
+  {
+    "gene": "EPHX1",
+    "string_id": "9606.ENSP00000480004"
+  },
+  {
+    "gene": "EPHX2",
+    "string_id": "9606.ENSP00000430269"
+  },
+  {
+    "gene": "FMO1",
+    "string_id": "9606.ENSP00000346901"
+  },
+  {
+    "gene": "FMO3",
+    "string_id": "9606.ENSP00000356729"
+  },
+  {
+    "gene": "FMO4",
+    "string_id": "9606.ENSP00000356723"
+  },
+  {
+    "gene": "FMO5",
+    "string_id": "9606.ENSP00000254090"
+  },
+  {
+    "gene": "GSTA1",
+    "string_id": "9606.ENSP00000335620"
+  },
+  {
+    "gene": "GSTA2",
+    "string_id": "9606.ENSP00000420168"
+  },
+  {
+    "gene": "GSTM1",
+    "string_id": "9606.ENSP00000311469"
+  },
+  {
+    "gene": "GSTP1",
+    "string_id": "9606.ENSP00000381607"
+  },
+  {
+    "gene": "HPGDS",
+    "string_id": "9606.ENSP00000295256"
+  },
+  {
+    "gene": "PPIG",
+    "string_id": "9606.ENSP00000260970"
+  },
+  {
+    "gene": "PTGS1",
+    "string_id": "9606.ENSP00000354612"
+  },
+  {
+    "gene": "PTGS2",
+    "string_id": "9606.ENSP00000356438"
+  },
+  {
+    "gene": "UGT1A1",
+    "string_id": "9606.ENSP00000304845"
+  },
+  {
+    "gene": "UGT1A10",
+    "string_id": "9606.ENSP00000343838"
+  },
+  {
+    "gene": "UGT1A4",
+    "string_id": "9606.ENSP00000362508"
+  },
+  {
+    "gene": "UGT1A6",
+    "string_id": "9606.ENSP00000303174"
+  },
+  {
+    "gene": "UGT1A7",
+    "string_id": "9606.ENSP00000362525"
+  },
+  {
+    "gene": "UGT1A8",
+    "string_id": "9606.ENSP00000362549"
+  },
+  {
+    "gene": "UGT1A9",
+    "string_id": "9606.ENSP00000346768"
+  },
+  {
+    "gene": "UGT2B10",
+    "string_id": "9606.ENSP00000265403"
+  },
+  {
+    "gene": "UGT2B15",
+    "string_id": "9606.ENSP00000341045"
+  },
+  {
+    "gene": "UGT2B7",
+    "string_id": "9606.ENSP00000304811"
+  },
+  {
+    "gene": "VKORC1",
+    "string_id": "9606.ENSP00000378426"
+  }
+]

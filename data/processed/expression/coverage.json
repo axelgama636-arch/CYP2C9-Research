@@ -1,0 +1,17 @@
+{
+  "requested_gene_count": 50,
+  "genes_with_any_tissue_value": 49,
+  "genes_without_values": [
+    "ENSP00000480571"
+  ],
+  "missing_cells": 6,
+  "total_cells": 300,
+  "tissues": [
+    "liver",
+    "kidney",
+    "small intestine",
+    "lung",
+    "cerebral cortex",
+    "heart muscle"
+  ]
+}

@@ -1,0 +1,4314 @@
+[
+  {
+    "source": "ALDH1A1",
+    "target": "AOX1",
+    "combined_score": 0.954,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "ALDH1A1",
+    "target": "CYP1A1",
+    "combined_score": 0.938,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "ALDH1A1",
+    "target": "CYP1A2",
+    "combined_score": 0.933,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "ALDH1A1",
+    "target": "CYP26C1",
+    "combined_score": 0.953,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "ALDH1A1",
+    "target": "CYP2A6",
+    "combined_score": 0.923,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "ALDH1A1",
+    "target": "CYP2A7",
+    "combined_score": 0.916,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "ALDH1A1",
+    "target": "CYP2B6",
+    "combined_score": 0.931,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "ALDH1A1",
+    "target": "CYP2C8",
+    "combined_score": 0.923,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "ALDH1A1",
+    "target": "CYP3A4",
+    "combined_score": 0.936,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "ALDH1A1",
+    "target": "CYP3A7",
+    "combined_score": 0.923,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "ALDH1A1",
+    "target": "ENSP00000480571",
+    "combined_score": 0.915,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "ALDH1A1",
+    "target": "UGT1A1",
+    "combined_score": 0.718,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "ALDH1A1",
+    "target": "UGT1A10",
+    "combined_score": 0.705,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "ALDH1A1",
+    "target": "UGT1A4",
+    "combined_score": 0.707,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "ALDH1A1",
+    "target": "UGT1A6",
+    "combined_score": 0.727,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "ALDH1A1",
+    "target": "UGT1A7",
+    "combined_score": 0.702,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "ALDH1A1",
+    "target": "UGT1A8",
+    "combined_score": 0.712,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "ALOX5",
+    "target": "CYP2E1",
+    "combined_score": 0.922,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "ALOX5",
+    "target": "CYP4F8",
+    "combined_score": 0.907,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "AOX1",
+    "target": "CYP1A1",
+    "combined_score": 0.946,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "AOX1",
+    "target": "CYP26C1",
+    "combined_score": 0.911,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "AOX1",
+    "target": "CYP3A4",
+    "combined_score": 0.957,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "AOX1",
+    "target": "ENSP00000480571",
+    "combined_score": 0.926,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP1A1",
+    "target": "CYP26C1",
+    "combined_score": 0.928,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP1A1",
+    "target": "CYP2E1",
+    "combined_score": 0.943,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP1A1",
+    "target": "CYP3A4",
+    "combined_score": 0.96,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP1A1",
+    "target": "ENSP00000480571",
+    "combined_score": 0.945,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP1A1",
+    "target": "EPHX1",
+    "combined_score": 0.972,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP1A1",
+    "target": "EPHX2",
+    "combined_score": 0.939,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP1A1",
+    "target": "GSTA2",
+    "combined_score": 0.944,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP1A1",
+    "target": "GSTP1",
+    "combined_score": 0.972,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP1A2",
+    "target": "AOX1",
+    "combined_score": 0.952,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP1A2",
+    "target": "CYP1A1",
+    "combined_score": 0.93,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP1A2",
+    "target": "CYP26C1",
+    "combined_score": 0.929,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP1A2",
+    "target": "CYP2C19",
+    "combined_score": 0.952,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP1A2",
+    "target": "CYP2C8",
+    "combined_score": 0.951,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP1A2",
+    "target": "CYP2E1",
+    "combined_score": 0.961,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP1A2",
+    "target": "CYP2J2",
+    "combined_score": 0.938,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP1A2",
+    "target": "CYP3A4",
+    "combined_score": 0.966,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP1A2",
+    "target": "ENSP00000480571",
+    "combined_score": 0.95,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP1A2",
+    "target": "EPHX1",
+    "combined_score": 0.957,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP1A2",
+    "target": "GSTA2",
+    "combined_score": 0.941,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP1A2",
+    "target": "GSTP1",
+    "combined_score": 0.955,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP1A2",
+    "target": "UGT1A10",
+    "combined_score": 0.927,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP1A2",
+    "target": "UGT1A4",
+    "combined_score": 0.934,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP1A2",
+    "target": "UGT1A7",
+    "combined_score": 0.927,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP1A2",
+    "target": "UGT1A8",
+    "combined_score": 0.933,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP1A2",
+    "target": "UGT1A9",
+    "combined_score": 0.916,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP26A1",
+    "target": "ALDH1A1",
+    "combined_score": 0.964,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP26A1",
+    "target": "AOX1",
+    "combined_score": 0.926,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP26A1",
+    "target": "CYP1A1",
+    "combined_score": 0.945,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP26A1",
+    "target": "CYP1A2",
+    "combined_score": 0.943,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP26A1",
+    "target": "CYP26C1",
+    "combined_score": 0.929,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP26A1",
+    "target": "CYP2A6",
+    "combined_score": 0.941,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP26A1",
+    "target": "CYP2A7",
+    "combined_score": 0.939,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP26A1",
+    "target": "CYP2B6",
+    "combined_score": 0.942,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP26A1",
+    "target": "CYP2C18",
+    "combined_score": 0.941,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP26A1",
+    "target": "CYP2C8",
+    "combined_score": 0.944,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP26A1",
+    "target": "CYP2C9",
+    "combined_score": 0.942,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP26A1",
+    "target": "CYP3A4",
+    "combined_score": 0.941,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP26A1",
+    "target": "CYP3A7",
+    "combined_score": 0.937,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP26A1",
+    "target": "ENSP00000480571",
+    "combined_score": 0.936,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP26A1",
+    "target": "UGT1A1",
+    "combined_score": 0.708,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP26A1",
+    "target": "UGT1A4",
+    "combined_score": 0.702,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP26A1",
+    "target": "UGT1A6",
+    "combined_score": 0.716,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP26A1",
+    "target": "UGT1A8",
+    "combined_score": 0.701,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP26A1",
+    "target": "UGT2B15",
+    "combined_score": 0.701,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP26A1",
+    "target": "UGT2B7",
+    "combined_score": 0.725,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP26B1",
+    "target": "ALDH1A1",
+    "combined_score": 0.962,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP26B1",
+    "target": "AOX1",
+    "combined_score": 0.926,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP26B1",
+    "target": "CYP1A1",
+    "combined_score": 0.944,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP26B1",
+    "target": "CYP1A2",
+    "combined_score": 0.944,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP26B1",
+    "target": "CYP26A1",
+    "combined_score": 0.919,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP26B1",
+    "target": "CYP26C1",
+    "combined_score": 0.92,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP26B1",
+    "target": "CYP2A6",
+    "combined_score": 0.939,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP26B1",
+    "target": "CYP2A7",
+    "combined_score": 0.937,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP26B1",
+    "target": "CYP2B6",
+    "combined_score": 0.936,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP26B1",
+    "target": "CYP2C18",
+    "combined_score": 0.939,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP26B1",
+    "target": "CYP2C8",
+    "combined_score": 0.94,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP26B1",
+    "target": "CYP2C9",
+    "combined_score": 0.937,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP26B1",
+    "target": "CYP3A4",
+    "combined_score": 0.935,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP26B1",
+    "target": "CYP3A5",
+    "combined_score": 0.931,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP26B1",
+    "target": "CYP3A7",
+    "combined_score": 0.932,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP26B1",
+    "target": "ENSP00000480571",
+    "combined_score": 0.93,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP26C1",
+    "target": "CYP3A4",
+    "combined_score": 0.931,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A6",
+    "target": "AOX1",
+    "combined_score": 0.959,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A6",
+    "target": "CYP1A1",
+    "combined_score": 0.937,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A6",
+    "target": "CYP1A2",
+    "combined_score": 0.956,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A6",
+    "target": "CYP26C1",
+    "combined_score": 0.931,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A6",
+    "target": "CYP2A7",
+    "combined_score": 0.998,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A6",
+    "target": "CYP2B6",
+    "combined_score": 0.956,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A6",
+    "target": "CYP2C8",
+    "combined_score": 0.85,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A6",
+    "target": "CYP2E1",
+    "combined_score": 0.966,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A6",
+    "target": "CYP3A4",
+    "combined_score": 0.961,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A6",
+    "target": "CYP3A7",
+    "combined_score": 0.952,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A6",
+    "target": "ENSP00000480571",
+    "combined_score": 0.942,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A6",
+    "target": "EPHX1",
+    "combined_score": 0.944,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A6",
+    "target": "FMO3",
+    "combined_score": 0.781,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A6",
+    "target": "GSTA1",
+    "combined_score": 0.768,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A6",
+    "target": "GSTA2",
+    "combined_score": 0.761,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A6",
+    "target": "GSTM1",
+    "combined_score": 0.821,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A6",
+    "target": "GSTP1",
+    "combined_score": 0.8,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A6",
+    "target": "UGT1A1",
+    "combined_score": 0.875,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A6",
+    "target": "UGT1A10",
+    "combined_score": 0.884,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A6",
+    "target": "UGT1A4",
+    "combined_score": 0.913,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A6",
+    "target": "UGT1A6",
+    "combined_score": 0.896,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A6",
+    "target": "UGT1A7",
+    "combined_score": 0.88,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A6",
+    "target": "UGT1A8",
+    "combined_score": 0.882,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A6",
+    "target": "UGT1A9",
+    "combined_score": 0.879,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A6",
+    "target": "UGT2B15",
+    "combined_score": 0.858,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A6",
+    "target": "UGT2B7",
+    "combined_score": 0.919,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A7",
+    "target": "AOX1",
+    "combined_score": 0.929,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A7",
+    "target": "CYP1A1",
+    "combined_score": 0.937,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A7",
+    "target": "CYP1A2",
+    "combined_score": 0.951,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A7",
+    "target": "CYP26C1",
+    "combined_score": 0.931,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A7",
+    "target": "CYP2B6",
+    "combined_score": 0.939,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A7",
+    "target": "CYP2E1",
+    "combined_score": 0.943,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A7",
+    "target": "CYP3A4",
+    "combined_score": 0.96,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A7",
+    "target": "CYP3A7",
+    "combined_score": 0.946,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A7",
+    "target": "ENSP00000480571",
+    "combined_score": 0.935,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A7",
+    "target": "EPHX1",
+    "combined_score": 0.914,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A7",
+    "target": "GSTA1",
+    "combined_score": 0.723,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A7",
+    "target": "GSTA2",
+    "combined_score": 0.715,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A7",
+    "target": "UGT1A1",
+    "combined_score": 0.784,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A7",
+    "target": "UGT1A10",
+    "combined_score": 0.78,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A7",
+    "target": "UGT1A4",
+    "combined_score": 0.787,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A7",
+    "target": "UGT1A6",
+    "combined_score": 0.796,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A7",
+    "target": "UGT1A7",
+    "combined_score": 0.783,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A7",
+    "target": "UGT1A8",
+    "combined_score": 0.777,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A7",
+    "target": "UGT1A9",
+    "combined_score": 0.774,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A7",
+    "target": "UGT2B15",
+    "combined_score": 0.761,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2A7",
+    "target": "UGT2B7",
+    "combined_score": 0.78,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2B6",
+    "target": "ALOX5",
+    "combined_score": 0.917,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2B6",
+    "target": "AOX1",
+    "combined_score": 0.944,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2B6",
+    "target": "CYP1A1",
+    "combined_score": 0.938,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2B6",
+    "target": "CYP1A2",
+    "combined_score": 0.949,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2B6",
+    "target": "CYP26C1",
+    "combined_score": 0.924,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2B6",
+    "target": "CYP2C19",
+    "combined_score": 0.929,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2B6",
+    "target": "CYP2C8",
+    "combined_score": 0.942,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2B6",
+    "target": "CYP2E1",
+    "combined_score": 0.929,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2B6",
+    "target": "CYP2J2",
+    "combined_score": 0.927,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2B6",
+    "target": "CYP2U1",
+    "combined_score": 0.925,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2B6",
+    "target": "CYP3A4",
+    "combined_score": 0.959,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2B6",
+    "target": "CYP3A7",
+    "combined_score": 0.952,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2B6",
+    "target": "CYP4F8",
+    "combined_score": 0.937,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2B6",
+    "target": "ENSP00000480571",
+    "combined_score": 0.942,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2B6",
+    "target": "EPHX1",
+    "combined_score": 0.949,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2B6",
+    "target": "EPHX2",
+    "combined_score": 0.937,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2B6",
+    "target": "GSTA1",
+    "combined_score": 0.814,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2B6",
+    "target": "GSTA2",
+    "combined_score": 0.757,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2B6",
+    "target": "GSTP1",
+    "combined_score": 0.811,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2B6",
+    "target": "PTGS1",
+    "combined_score": 0.915,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2B6",
+    "target": "PTGS2",
+    "combined_score": 0.916,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2B6",
+    "target": "UGT1A10",
+    "combined_score": 0.924,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2B6",
+    "target": "UGT1A4",
+    "combined_score": 0.933,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2B6",
+    "target": "UGT1A7",
+    "combined_score": 0.924,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2B6",
+    "target": "UGT1A8",
+    "combined_score": 0.926,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2B6",
+    "target": "UGT1A9",
+    "combined_score": 0.914,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2B6",
+    "target": "UGT2B15",
+    "combined_score": 0.886,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C18",
+    "target": "ALDH1A1",
+    "combined_score": 0.92,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C18",
+    "target": "AOX1",
+    "combined_score": 0.919,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C18",
+    "target": "CYP1A1",
+    "combined_score": 0.931,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C18",
+    "target": "CYP1A2",
+    "combined_score": 0.94,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C18",
+    "target": "CYP26C1",
+    "combined_score": 0.926,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C18",
+    "target": "CYP2C19",
+    "combined_score": 0.976,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C18",
+    "target": "CYP2C8",
+    "combined_score": 0.799,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C18",
+    "target": "CYP3A4",
+    "combined_score": 0.853,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C18",
+    "target": "CYP3A7",
+    "combined_score": 0.945,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C18",
+    "target": "ENSP00000480571",
+    "combined_score": 0.941,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C18",
+    "target": "EPHX1",
+    "combined_score": 0.943,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C18",
+    "target": "EPHX2",
+    "combined_score": 0.703,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C18",
+    "target": "GSTA1",
+    "combined_score": 0.767,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C18",
+    "target": "GSTA2",
+    "combined_score": 0.724,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C18",
+    "target": "GSTM1",
+    "combined_score": 0.717,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C18",
+    "target": "GSTP1",
+    "combined_score": 0.722,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C18",
+    "target": "HPGDS",
+    "combined_score": 0.745,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C18",
+    "target": "UGT1A1",
+    "combined_score": 0.834,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C18",
+    "target": "UGT1A10",
+    "combined_score": 0.83,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C18",
+    "target": "UGT1A4",
+    "combined_score": 0.841,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C18",
+    "target": "UGT1A6",
+    "combined_score": 0.854,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C18",
+    "target": "UGT1A7",
+    "combined_score": 0.828,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C18",
+    "target": "UGT1A8",
+    "combined_score": 0.841,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C18",
+    "target": "UGT1A9",
+    "combined_score": 0.827,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C18",
+    "target": "UGT2B15",
+    "combined_score": 0.818,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C18",
+    "target": "UGT2B7",
+    "combined_score": 0.838,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C19",
+    "target": "ALOX5",
+    "combined_score": 0.925,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C19",
+    "target": "CYP2E1",
+    "combined_score": 0.935,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C19",
+    "target": "CYP3A4",
+    "combined_score": 0.975,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C19",
+    "target": "EPHX1",
+    "combined_score": 0.951,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C19",
+    "target": "GSTA2",
+    "combined_score": 0.725,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C19",
+    "target": "GSTP1",
+    "combined_score": 0.806,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C19",
+    "target": "UGT1A4",
+    "combined_score": 0.835,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C19",
+    "target": "UGT1A7",
+    "combined_score": 0.806,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C19",
+    "target": "UGT1A8",
+    "combined_score": 0.814,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C19",
+    "target": "VKORC1",
+    "combined_score": 0.907,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C8",
+    "target": "ALOX5",
+    "combined_score": 0.924,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C8",
+    "target": "AOX1",
+    "combined_score": 0.952,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C8",
+    "target": "CYP1A1",
+    "combined_score": 0.936,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C8",
+    "target": "CYP26C1",
+    "combined_score": 0.93,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C8",
+    "target": "CYP2C19",
+    "combined_score": 0.973,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C8",
+    "target": "CYP2E1",
+    "combined_score": 0.957,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C8",
+    "target": "CYP3A4",
+    "combined_score": 0.965,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C8",
+    "target": "CYP4F8",
+    "combined_score": 0.943,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C8",
+    "target": "ENSP00000480571",
+    "combined_score": 0.945,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C8",
+    "target": "EPHX1",
+    "combined_score": 0.942,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C8",
+    "target": "EPHX2",
+    "combined_score": 0.961,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C8",
+    "target": "GSTA2",
+    "combined_score": 0.724,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C8",
+    "target": "GSTP1",
+    "combined_score": 0.779,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C8",
+    "target": "UGT1A4",
+    "combined_score": 0.925,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C8",
+    "target": "UGT1A7",
+    "combined_score": 0.913,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C8",
+    "target": "UGT1A8",
+    "combined_score": 0.915,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C8",
+    "target": "VKORC1",
+    "combined_score": 0.822,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "ALDH1A1",
+    "combined_score": 0.929,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "ALOX5",
+    "combined_score": 0.931,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "AOX1",
+    "combined_score": 0.948,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "CYP1A1",
+    "combined_score": 0.936,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "CYP1A2",
+    "combined_score": 0.955,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "CYP26C1",
+    "combined_score": 0.926,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "CYP2A6",
+    "combined_score": 0.96,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "CYP2A7",
+    "combined_score": 0.94,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "CYP2B6",
+    "combined_score": 0.931,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "CYP2C18",
+    "combined_score": 0.992,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "CYP2C19",
+    "combined_score": 0.999,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "CYP2C8",
+    "combined_score": 0.985,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "CYP2E1",
+    "combined_score": 0.942,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "CYP2J2",
+    "combined_score": 0.932,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "CYP2U1",
+    "combined_score": 0.926,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "CYP3A4",
+    "combined_score": 0.99,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "CYP3A7",
+    "combined_score": 0.953,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "CYP4F8",
+    "combined_score": 0.939,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "ENSP00000480571",
+    "combined_score": 0.962,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "EPHX1",
+    "combined_score": 0.96,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "EPHX2",
+    "combined_score": 0.964,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "FMO1",
+    "combined_score": 0.924,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "FMO3",
+    "combined_score": 0.97,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "FMO4",
+    "combined_score": 0.928,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "GSTA1",
+    "combined_score": 0.948,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "GSTA2",
+    "combined_score": 0.93,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "GSTM1",
+    "combined_score": 0.947,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "GSTP1",
+    "combined_score": 0.947,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "HPGDS",
+    "combined_score": 0.945,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "PPIG",
+    "combined_score": 0.961,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "PTGS1",
+    "combined_score": 0.932,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "PTGS2",
+    "combined_score": 0.933,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "UGT1A1",
+    "combined_score": 0.929,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "UGT1A10",
+    "combined_score": 0.935,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "UGT1A4",
+    "combined_score": 0.948,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "UGT1A6",
+    "combined_score": 0.966,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "UGT1A7",
+    "combined_score": 0.936,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "UGT1A8",
+    "combined_score": 0.942,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "UGT1A9",
+    "combined_score": 0.927,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "UGT2B10",
+    "combined_score": 0.925,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "UGT2B15",
+    "combined_score": 0.928,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "UGT2B7",
+    "combined_score": 0.944,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2C9",
+    "target": "VKORC1",
+    "combined_score": 0.982,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2E1",
+    "target": "CYP3A4",
+    "combined_score": 0.963,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2E1",
+    "target": "EPHX1",
+    "combined_score": 0.966,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2J2",
+    "target": "ALOX5",
+    "combined_score": 0.933,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2J2",
+    "target": "CYP2C19",
+    "combined_score": 0.931,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2J2",
+    "target": "CYP2C8",
+    "combined_score": 0.931,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2J2",
+    "target": "CYP2E1",
+    "combined_score": 0.931,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2J2",
+    "target": "CYP3A4",
+    "combined_score": 0.957,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2J2",
+    "target": "CYP4F8",
+    "combined_score": 0.945,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2J2",
+    "target": "EPHX2",
+    "combined_score": 0.977,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2U1",
+    "target": "ALOX5",
+    "combined_score": 0.907,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2U1",
+    "target": "CYP2C19",
+    "combined_score": 0.926,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2U1",
+    "target": "CYP2C8",
+    "combined_score": 0.927,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2U1",
+    "target": "CYP2E1",
+    "combined_score": 0.932,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2U1",
+    "target": "CYP2J2",
+    "combined_score": 0.936,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2U1",
+    "target": "CYP4F8",
+    "combined_score": 0.945,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2U1",
+    "target": "PTGS1",
+    "combined_score": 0.901,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP2U1",
+    "target": "PTGS2",
+    "combined_score": 0.901,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A5",
+    "target": "ALDH1A1",
+    "combined_score": 0.934,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A5",
+    "target": "AOX1",
+    "combined_score": 0.942,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A5",
+    "target": "CYP1A1",
+    "combined_score": 0.954,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A5",
+    "target": "CYP1A2",
+    "combined_score": 0.958,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A5",
+    "target": "CYP26A1",
+    "combined_score": 0.936,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A5",
+    "target": "CYP26C1",
+    "combined_score": 0.929,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A5",
+    "target": "CYP2A6",
+    "combined_score": 0.954,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A5",
+    "target": "CYP2A7",
+    "combined_score": 0.948,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A5",
+    "target": "CYP2B6",
+    "combined_score": 0.955,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A5",
+    "target": "CYP2C18",
+    "combined_score": 0.951,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A5",
+    "target": "CYP2C19",
+    "combined_score": 0.959,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A5",
+    "target": "CYP2C8",
+    "combined_score": 0.954,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A5",
+    "target": "CYP2C9",
+    "combined_score": 0.958,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A5",
+    "target": "CYP3A4",
+    "combined_score": 0.982,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A5",
+    "target": "CYP3A7",
+    "combined_score": 0.969,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A5",
+    "target": "ENSP00000480571",
+    "combined_score": 0.974,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A5",
+    "target": "EPHX1",
+    "combined_score": 0.943,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A5",
+    "target": "GSTA1",
+    "combined_score": 0.791,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A5",
+    "target": "GSTA2",
+    "combined_score": 0.736,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A5",
+    "target": "GSTM1",
+    "combined_score": 0.835,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A5",
+    "target": "GSTP1",
+    "combined_score": 0.839,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A5",
+    "target": "HPGDS",
+    "combined_score": 0.793,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A5",
+    "target": "PPIG",
+    "combined_score": 0.924,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A5",
+    "target": "UGT1A1",
+    "combined_score": 0.974,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A5",
+    "target": "UGT1A10",
+    "combined_score": 0.975,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A5",
+    "target": "UGT1A4",
+    "combined_score": 0.977,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A5",
+    "target": "UGT1A6",
+    "combined_score": 0.977,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A5",
+    "target": "UGT1A7",
+    "combined_score": 0.976,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A5",
+    "target": "UGT1A8",
+    "combined_score": 0.976,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A5",
+    "target": "UGT1A9",
+    "combined_score": 0.965,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A5",
+    "target": "UGT2B10",
+    "combined_score": 0.952,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A5",
+    "target": "UGT2B15",
+    "combined_score": 0.965,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A5",
+    "target": "UGT2B7",
+    "combined_score": 0.974,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A5",
+    "target": "VKORC1",
+    "combined_score": 0.72,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A7",
+    "target": "AOX1",
+    "combined_score": 0.93,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A7",
+    "target": "CYP1A1",
+    "combined_score": 0.954,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A7",
+    "target": "CYP1A2",
+    "combined_score": 0.953,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A7",
+    "target": "CYP26C1",
+    "combined_score": 0.931,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A7",
+    "target": "CYP2C8",
+    "combined_score": 0.949,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A7",
+    "target": "ENSP00000480571",
+    "combined_score": 0.99,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A7",
+    "target": "UGT1A10",
+    "combined_score": 0.836,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A7",
+    "target": "UGT1A4",
+    "combined_score": 0.848,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A7",
+    "target": "UGT1A7",
+    "combined_score": 0.832,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A7",
+    "target": "UGT1A8",
+    "combined_score": 0.838,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A7",
+    "target": "UGT1A9",
+    "combined_score": 0.799,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP3A7",
+    "target": "UGT2B15",
+    "combined_score": 0.814,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP4F2",
+    "target": "ALOX5",
+    "combined_score": 0.924,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP4F2",
+    "target": "CYP2B6",
+    "combined_score": 0.949,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP4F2",
+    "target": "CYP2C19",
+    "combined_score": 0.955,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP4F2",
+    "target": "CYP2C8",
+    "combined_score": 0.953,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP4F2",
+    "target": "CYP2C9",
+    "combined_score": 0.961,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP4F2",
+    "target": "CYP2E1",
+    "combined_score": 0.947,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP4F2",
+    "target": "CYP2J2",
+    "combined_score": 0.954,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP4F2",
+    "target": "CYP2U1",
+    "combined_score": 0.942,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP4F2",
+    "target": "CYP4F8",
+    "combined_score": 0.908,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP4F2",
+    "target": "PPIG",
+    "combined_score": 0.847,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP4F2",
+    "target": "PTGS1",
+    "combined_score": 0.915,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP4F2",
+    "target": "PTGS2",
+    "combined_score": 0.94,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP4F2",
+    "target": "VKORC1",
+    "combined_score": 0.959,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP4F3",
+    "target": "ALOX5",
+    "combined_score": 0.931,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP4F3",
+    "target": "CYP2B6",
+    "combined_score": 0.945,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP4F3",
+    "target": "CYP2C19",
+    "combined_score": 0.95,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP4F3",
+    "target": "CYP2C8",
+    "combined_score": 0.949,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP4F3",
+    "target": "CYP2C9",
+    "combined_score": 0.952,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP4F3",
+    "target": "CYP2E1",
+    "combined_score": 0.947,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP4F3",
+    "target": "CYP2J2",
+    "combined_score": 0.951,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP4F3",
+    "target": "CYP2U1",
+    "combined_score": 0.945,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP4F3",
+    "target": "CYP4F2",
+    "combined_score": 0.993,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP4F3",
+    "target": "CYP4F8",
+    "combined_score": 0.921,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP4F3",
+    "target": "PPIG",
+    "combined_score": 0.708,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP4F3",
+    "target": "PTGS1",
+    "combined_score": 0.91,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "CYP4F3",
+    "target": "PTGS2",
+    "combined_score": 0.945,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "ENSP00000480571",
+    "target": "CYP26C1",
+    "combined_score": 0.925,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "ENSP00000480571",
+    "target": "CYP3A4",
+    "combined_score": 0.949,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "EPHX1",
+    "target": "CYP3A4",
+    "combined_score": 0.951,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "EPHX2",
+    "target": "EPHX1",
+    "combined_score": 0.97,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "FMO1",
+    "target": "CYP3A4",
+    "combined_score": 0.933,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "FMO3",
+    "target": "CYP3A4",
+    "combined_score": 0.958,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "FMO4",
+    "target": "CYP3A4",
+    "combined_score": 0.921,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "FMO5",
+    "target": "CYP2C9",
+    "combined_score": 0.962,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "FMO5",
+    "target": "CYP3A4",
+    "combined_score": 0.935,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "FMO5",
+    "target": "FMO3",
+    "combined_score": 0.834,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "GSTA1",
+    "target": "CYP1A1",
+    "combined_score": 0.956,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "GSTA1",
+    "target": "CYP1A2",
+    "combined_score": 0.954,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "GSTA1",
+    "target": "CYP2C19",
+    "combined_score": 0.788,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "GSTA1",
+    "target": "CYP2C8",
+    "combined_score": 0.759,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "GSTA1",
+    "target": "CYP2E1",
+    "combined_score": 0.945,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "GSTA1",
+    "target": "CYP3A4",
+    "combined_score": 0.953,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "GSTA1",
+    "target": "EPHX1",
+    "combined_score": 0.944,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "GSTA1",
+    "target": "GSTA2",
+    "combined_score": 0.999,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "GSTA1",
+    "target": "GSTP1",
+    "combined_score": 0.738,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "GSTA2",
+    "target": "CYP2E1",
+    "combined_score": 0.936,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "GSTA2",
+    "target": "CYP3A4",
+    "combined_score": 0.938,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "GSTA2",
+    "target": "EPHX1",
+    "combined_score": 0.94,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "GSTM1",
+    "target": "CYP1A1",
+    "combined_score": 0.99,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "GSTM1",
+    "target": "CYP1A2",
+    "combined_score": 0.956,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "GSTM1",
+    "target": "CYP2B6",
+    "combined_score": 0.82,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "GSTM1",
+    "target": "CYP2C19",
+    "combined_score": 0.815,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "GSTM1",
+    "target": "CYP2C8",
+    "combined_score": 0.759,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "GSTM1",
+    "target": "CYP2E1",
+    "combined_score": 0.971,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "GSTM1",
+    "target": "CYP3A4",
+    "combined_score": 0.954,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "GSTM1",
+    "target": "EPHX1",
+    "combined_score": 0.983,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "GSTM1",
+    "target": "GSTA1",
+    "combined_score": 0.764,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "GSTM1",
+    "target": "GSTA2",
+    "combined_score": 0.756,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "GSTM1",
+    "target": "GSTP1",
+    "combined_score": 0.824,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "GSTP1",
+    "target": "CYP2E1",
+    "combined_score": 0.961,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "GSTP1",
+    "target": "CYP3A4",
+    "combined_score": 0.969,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "GSTP1",
+    "target": "EPHX1",
+    "combined_score": 0.983,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "GSTP1",
+    "target": "GSTA2",
+    "combined_score": 0.744,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "HPGDS",
+    "target": "CYP1A1",
+    "combined_score": 0.965,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "HPGDS",
+    "target": "CYP1A2",
+    "combined_score": 0.951,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "HPGDS",
+    "target": "CYP2A6",
+    "combined_score": 0.793,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "HPGDS",
+    "target": "CYP2A7",
+    "combined_score": 0.717,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "HPGDS",
+    "target": "CYP2B6",
+    "combined_score": 0.829,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "HPGDS",
+    "target": "CYP2C19",
+    "combined_score": 0.788,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "HPGDS",
+    "target": "CYP2C8",
+    "combined_score": 0.759,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "HPGDS",
+    "target": "CYP2E1",
+    "combined_score": 0.957,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "HPGDS",
+    "target": "CYP3A4",
+    "combined_score": 0.958,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "HPGDS",
+    "target": "EPHX1",
+    "combined_score": 0.956,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "HPGDS",
+    "target": "GSTA1",
+    "combined_score": 0.784,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "HPGDS",
+    "target": "GSTA2",
+    "combined_score": 0.779,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "HPGDS",
+    "target": "GSTM1",
+    "combined_score": 0.78,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "HPGDS",
+    "target": "GSTP1",
+    "combined_score": 0.775,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "HPGDS",
+    "target": "PTGS1",
+    "combined_score": 0.948,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "HPGDS",
+    "target": "PTGS2",
+    "combined_score": 0.94,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PPIG",
+    "target": "CYP1A1",
+    "combined_score": 0.93,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PPIG",
+    "target": "CYP1A2",
+    "combined_score": 0.955,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PPIG",
+    "target": "CYP2A6",
+    "combined_score": 0.95,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PPIG",
+    "target": "CYP2A7",
+    "combined_score": 0.87,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PPIG",
+    "target": "CYP2B6",
+    "combined_score": 0.956,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PPIG",
+    "target": "CYP2C18",
+    "combined_score": 0.781,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PPIG",
+    "target": "CYP2C19",
+    "combined_score": 0.961,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PPIG",
+    "target": "CYP2C8",
+    "combined_score": 0.953,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PPIG",
+    "target": "CYP2E1",
+    "combined_score": 0.937,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PPIG",
+    "target": "CYP2J2",
+    "combined_score": 0.919,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PPIG",
+    "target": "CYP3A4",
+    "combined_score": 0.961,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PPIG",
+    "target": "CYP3A7",
+    "combined_score": 0.743,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PPIG",
+    "target": "ENSP00000480571",
+    "combined_score": 0.742,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PPIG",
+    "target": "EPHX2",
+    "combined_score": 0.71,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PPIG",
+    "target": "HPGDS",
+    "combined_score": 0.718,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PPIG",
+    "target": "UGT1A1",
+    "combined_score": 0.773,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PPIG",
+    "target": "UGT1A10",
+    "combined_score": 0.775,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PPIG",
+    "target": "UGT1A4",
+    "combined_score": 0.797,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PPIG",
+    "target": "UGT1A6",
+    "combined_score": 0.791,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PPIG",
+    "target": "UGT1A7",
+    "combined_score": 0.774,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PPIG",
+    "target": "UGT1A8",
+    "combined_score": 0.775,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PPIG",
+    "target": "UGT1A9",
+    "combined_score": 0.771,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PPIG",
+    "target": "UGT2B10",
+    "combined_score": 0.748,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PPIG",
+    "target": "UGT2B15",
+    "combined_score": 0.75,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PPIG",
+    "target": "UGT2B7",
+    "combined_score": 0.775,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PTGS1",
+    "target": "ALOX5",
+    "combined_score": 0.966,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PTGS1",
+    "target": "CYP2C19",
+    "combined_score": 0.932,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PTGS1",
+    "target": "CYP2C8",
+    "combined_score": 0.917,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PTGS1",
+    "target": "CYP2E1",
+    "combined_score": 0.919,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PTGS1",
+    "target": "CYP2J2",
+    "combined_score": 0.912,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PTGS1",
+    "target": "CYP4F8",
+    "combined_score": 0.906,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PTGS1",
+    "target": "PTGS2",
+    "combined_score": 0.962,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PTGS2",
+    "target": "ALOX5",
+    "combined_score": 0.971,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PTGS2",
+    "target": "CYP2C19",
+    "combined_score": 0.927,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PTGS2",
+    "target": "CYP2C8",
+    "combined_score": 0.942,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PTGS2",
+    "target": "CYP2E1",
+    "combined_score": 0.941,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PTGS2",
+    "target": "CYP2J2",
+    "combined_score": 0.917,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "PTGS2",
+    "target": "CYP4F8",
+    "combined_score": 0.942,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A1",
+    "target": "AOX1",
+    "combined_score": 0.942,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A1",
+    "target": "CYP1A1",
+    "combined_score": 0.974,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A1",
+    "target": "CYP1A2",
+    "combined_score": 0.926,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A1",
+    "target": "CYP2B6",
+    "combined_score": 0.924,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A1",
+    "target": "CYP2C19",
+    "combined_score": 0.785,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A1",
+    "target": "CYP2C8",
+    "combined_score": 0.904,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A1",
+    "target": "CYP2E1",
+    "combined_score": 0.969,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A1",
+    "target": "CYP3A4",
+    "combined_score": 0.992,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A1",
+    "target": "CYP3A7",
+    "combined_score": 0.837,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A1",
+    "target": "ENSP00000480571",
+    "combined_score": 0.834,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A1",
+    "target": "UGT1A10",
+    "combined_score": 0.999,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A1",
+    "target": "UGT1A4",
+    "combined_score": 0.999,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A1",
+    "target": "UGT1A7",
+    "combined_score": 0.999,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A1",
+    "target": "UGT1A8",
+    "combined_score": 0.999,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A1",
+    "target": "UGT1A9",
+    "combined_score": 0.999,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A10",
+    "target": "AOX1",
+    "combined_score": 0.94,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A10",
+    "target": "CYP1A1",
+    "combined_score": 0.974,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A10",
+    "target": "CYP2C19",
+    "combined_score": 0.804,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A10",
+    "target": "CYP2C8",
+    "combined_score": 0.912,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A10",
+    "target": "CYP2E1",
+    "combined_score": 0.969,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A10",
+    "target": "CYP3A4",
+    "combined_score": 0.987,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A10",
+    "target": "ENSP00000480571",
+    "combined_score": 0.845,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A10",
+    "target": "UGT1A4",
+    "combined_score": 0.999,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A10",
+    "target": "UGT1A7",
+    "combined_score": 0.999,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A10",
+    "target": "UGT1A8",
+    "combined_score": 0.999,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A10",
+    "target": "UGT1A9",
+    "combined_score": 0.999,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A4",
+    "target": "AOX1",
+    "combined_score": 0.947,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A4",
+    "target": "CYP1A1",
+    "combined_score": 0.974,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A4",
+    "target": "CYP2E1",
+    "combined_score": 0.971,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A4",
+    "target": "CYP3A4",
+    "combined_score": 0.99,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A4",
+    "target": "ENSP00000480571",
+    "combined_score": 0.87,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A4",
+    "target": "UGT1A7",
+    "combined_score": 0.999,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A4",
+    "target": "UGT1A8",
+    "combined_score": 0.999,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A6",
+    "target": "AOX1",
+    "combined_score": 0.945,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A6",
+    "target": "CYP1A1",
+    "combined_score": 0.975,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A6",
+    "target": "CYP1A2",
+    "combined_score": 0.933,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A6",
+    "target": "CYP2B6",
+    "combined_score": 0.928,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A6",
+    "target": "CYP2C19",
+    "combined_score": 0.826,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A6",
+    "target": "CYP2C8",
+    "combined_score": 0.92,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A6",
+    "target": "CYP2E1",
+    "combined_score": 0.971,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A6",
+    "target": "CYP3A4",
+    "combined_score": 0.993,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A6",
+    "target": "CYP3A7",
+    "combined_score": 0.853,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A6",
+    "target": "ENSP00000480571",
+    "combined_score": 0.861,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A6",
+    "target": "UGT1A1",
+    "combined_score": 0.999,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A6",
+    "target": "UGT1A10",
+    "combined_score": 0.999,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A6",
+    "target": "UGT1A4",
+    "combined_score": 0.999,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A6",
+    "target": "UGT1A7",
+    "combined_score": 0.999,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A6",
+    "target": "UGT1A8",
+    "combined_score": 0.999,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A6",
+    "target": "UGT1A9",
+    "combined_score": 0.999,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A7",
+    "target": "AOX1",
+    "combined_score": 0.939,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A7",
+    "target": "CYP1A1",
+    "combined_score": 0.974,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A7",
+    "target": "CYP2E1",
+    "combined_score": 0.969,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A7",
+    "target": "CYP3A4",
+    "combined_score": 0.987,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A7",
+    "target": "ENSP00000480571",
+    "combined_score": 0.845,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A7",
+    "target": "UGT1A8",
+    "combined_score": 0.999,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A8",
+    "target": "AOX1",
+    "combined_score": 0.94,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A8",
+    "target": "CYP1A1",
+    "combined_score": 0.973,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A8",
+    "target": "CYP2E1",
+    "combined_score": 0.969,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A8",
+    "target": "CYP3A4",
+    "combined_score": 0.988,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A8",
+    "target": "ENSP00000480571",
+    "combined_score": 0.85,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A9",
+    "target": "AOX1",
+    "combined_score": 0.941,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A9",
+    "target": "CYP1A1",
+    "combined_score": 0.961,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A9",
+    "target": "CYP2C19",
+    "combined_score": 0.782,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A9",
+    "target": "CYP2C8",
+    "combined_score": 0.902,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A9",
+    "target": "CYP2E1",
+    "combined_score": 0.961,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A9",
+    "target": "CYP3A4",
+    "combined_score": 0.98,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A9",
+    "target": "ENSP00000480571",
+    "combined_score": 0.811,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A9",
+    "target": "UGT1A4",
+    "combined_score": 0.999,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A9",
+    "target": "UGT1A7",
+    "combined_score": 0.999,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT1A9",
+    "target": "UGT1A8",
+    "combined_score": 0.999,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT2B10",
+    "target": "AOX1",
+    "combined_score": 0.947,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT2B10",
+    "target": "CYP1A1",
+    "combined_score": 0.951,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT2B10",
+    "target": "CYP1A2",
+    "combined_score": 0.9,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT2B10",
+    "target": "CYP2A6",
+    "combined_score": 0.905,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT2B10",
+    "target": "CYP2A7",
+    "combined_score": 0.803,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT2B10",
+    "target": "CYP2B6",
+    "combined_score": 0.878,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT2B10",
+    "target": "CYP2C18",
+    "combined_score": 0.841,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT2B10",
+    "target": "CYP2C19",
+    "combined_score": 0.74,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT2B10",
+    "target": "CYP2C8",
+    "combined_score": 0.888,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT2B10",
+    "target": "CYP2E1",
+    "combined_score": 0.963,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT2B10",
+    "target": "CYP3A4",
+    "combined_score": 0.979,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT2B10",
+    "target": "CYP3A7",
+    "combined_score": 0.757,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT2B10",
+    "target": "ENSP00000480571",
+    "combined_score": 0.803,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT2B10",
+    "target": "UGT2B15",
+    "combined_score": 0.738,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT2B10",
+    "target": "UGT2B7",
+    "combined_score": 0.993,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT2B15",
+    "target": "AOX1",
+    "combined_score": 0.943,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT2B15",
+    "target": "CYP1A1",
+    "combined_score": 0.953,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT2B15",
+    "target": "CYP1A2",
+    "combined_score": 0.901,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT2B15",
+    "target": "CYP2C19",
+    "combined_score": 0.744,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT2B15",
+    "target": "CYP2C8",
+    "combined_score": 0.886,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT2B15",
+    "target": "CYP2E1",
+    "combined_score": 0.959,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT2B15",
+    "target": "CYP3A4",
+    "combined_score": 0.985,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT2B15",
+    "target": "ENSP00000480571",
+    "combined_score": 0.852,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT2B7",
+    "target": "AOX1",
+    "combined_score": 0.946,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT2B7",
+    "target": "CYP1A1",
+    "combined_score": 0.959,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT2B7",
+    "target": "CYP1A2",
+    "combined_score": 0.931,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT2B7",
+    "target": "CYP2B6",
+    "combined_score": 0.921,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT2B7",
+    "target": "CYP2C19",
+    "combined_score": 0.824,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT2B7",
+    "target": "CYP2C8",
+    "combined_score": 0.925,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT2B7",
+    "target": "CYP2E1",
+    "combined_score": 0.97,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT2B7",
+    "target": "CYP3A4",
+    "combined_score": 0.999,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT2B7",
+    "target": "CYP3A7",
+    "combined_score": 0.832,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "UGT2B7",
+    "target": "ENSP00000480571",
+    "combined_score": 0.874,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  },
+  {
+    "source": "VKORC1",
+    "target": "EPHX1",
+    "combined_score": 0.753,
+    "database": "STRING",
+    "evidence_type": "functional_association",
+    "physical_binding_confirmed": false
+  }
+]
