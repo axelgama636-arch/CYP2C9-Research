@@ -85,8 +85,30 @@ def clean(value):
     return re.sub(r"\s+", " ", str(value)).strip()
 
 def extract_rsids(item):
-    serialized = json.dumps(item, ensure_ascii=False)
-    return sorted(set(re.findall(r"\brs[0-9]+\b", serialized)))
+    found = set(re.findall(r"\brs[0-9]+\b", json.dumps(item, ensure_ascii=False)))
+    for variation in item.get("variation_set", []):
+        for xref in variation.get("variation_xrefs", []):
+            if xref.get("db_source") == "dbSNP" and xref.get("db_id"):
+                found.add("rs" + str(xref["db_id"]))
+        for alias in variation.get("aliases", []):
+            found.update(re.findall(r"\brs[0-9]+\b", str(alias)))
+    return sorted(found)
+
+def extract_variations(item):
+    variations = item.get("variation_set", [])
+    names = []
+    frequencies = []
+    for variation in variations:
+        name = variation.get("variation_name") or variation.get("cdna_change")
+        if name:
+            names.append(str(name))
+        for observation in variation.get("allele_freq_set", []):
+            frequencies.append({
+                "source": observation.get("source", ""),
+                "allele": observation.get("minor_allele", ""),
+                "frequency": observation.get("value", "")
+            })
+    return variations, names, frequencies
 
 def main():
     raw_dir = Path("data/raw/clinvar")
