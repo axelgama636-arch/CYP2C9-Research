@@ -75,10 +75,17 @@ def search_pubmed():
     ids = search.get("esearchresult", {}).get("idlist", [])
     if not ids:
         return [], {"source": "PubMed", "query": PUBMED_QUERY, "idlist": []}
-    summary = get_json(PUBMED_ESUMMARY, {
-        "db": "pubmed", "id": ",".join(ids), "retmode": "json"
-    })
-    result = summary.get("result", {})
+    # ESummary requests are chunked to avoid HTTP 414 (URI too long).
+    # Keep the chunks small and merge results in the original ESearch order.
+    result = {}
+    chunk_size = 80
+    for start in range(0, len(ids), chunk_size):
+        chunk = ids[start:start + chunk_size]
+        summary = get_json(PUBMED_ESUMMARY, {
+            "db": "pubmed", "id": ",".join(chunk), "retmode": "json"
+        })
+        result.update(summary.get("result", {}))
+        time.sleep(0.34)  # respect NCBI's request-rate guidance
     records = []
     for pmid in ids:
         item = result.get(pmid, {})
