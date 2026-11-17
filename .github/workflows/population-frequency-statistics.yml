@@ -1,0 +1,39 @@
+name: CYP2C9 population frequency statistics
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "scripts/07_population_frequency_statistics.py"
+      - ".github/workflows/population-frequency-statistics.yml"
+      - "data/processed/population_frequencies/cyp2c9_population_allele_frequencies.csv"
+
+permissions:
+  contents: write
+
+jobs:
+  population-statistics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install analysis dependencies
+        run: python -m pip install matplotlib numpy
+      - name: Calculate descriptive population statistics
+        run: python scripts/07_population_frequency_statistics.py
+      - name: Commit statistical tables and figure
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/processed/population_frequencies/
+          if git diff --cached --quiet; then
+            echo "No statistical outputs changed."
+          else
+            git commit -m "Add CYP2C9 population frequency statistical analysis"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
