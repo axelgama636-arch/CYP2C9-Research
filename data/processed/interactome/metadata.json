@@ -7,7 +7,7 @@
   "requested_nodes_including_query": 50,
   "observed_nodes": 50,
   "observed_edges": 539,
-  "retrieved_at_utc": "2026-11-17T06:41:22Z",
+  "retrieved_at_utc": "2026-11-23T12:52:27Z",
   "query_parameters": {
     "identifiers": "CYP2C9",
     "species": 9606,
