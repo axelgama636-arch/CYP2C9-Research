@@ -1,0 +1,18 @@
+{
+  "database_used": "PubMed E-utilities (fallback)",
+  "primary_database": "Europe PMC",
+  "fallback_database": "PubMed E-utilities",
+  "query": "CYP2C9 AND (sequencing OR \"next generation sequencing\" OR NGS OR Sanger OR pyrosequencing OR genotyping OR haplotype OR allele)",
+  "retrieved_at_utc": "2026-11-23T14:52:04Z",
+  "records_returned": 1000,
+  "records_after_deduplication": 1000,
+  "deduplication_priority": "DOI, then PMID, then normalized title",
+  "method_terms_are": "automatically detected text terms, not manually verified method assignments",
+  "limitations": [
+    "Search sensitivity depends on title/abstract/indexing terms.",
+    "PubMed fallback metadata may not include abstracts or DOI values.",
+    "A detected method term is not proof that the study used that method experimentally.",
+    "Full-text review is required to extract sample sizes, platforms, coverage and validation metrics.",
+    "The dataset is a literature discovery corpus, not a systematic review or meta-analysis."
+  ]
+}
